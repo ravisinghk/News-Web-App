@@ -1,0 +1,9 @@
+.footer{
+    margin-top: 10vh;
+    text-align: center;
+    background-color:#3D5A6C;
+    color: white;
+    height: 15vh;
+    line-height: 15vh;
+    font-size: larger;
+}
